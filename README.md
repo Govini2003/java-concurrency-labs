@@ -31,6 +31,9 @@ Lecture and tutorial exercises on multithreading and synchronization in Java.
 - `Semaphore`
 - `ReentrantReadWriteLock`
 - Producer-consumer and race conditions
+- Virtual threads and the three ways to create them
+- `ThreadPoolExecutor` with a bounded queue and rejection policy (`CallerRunsPolicy`)
+- `invokeAll` and `invokeAny`
 
 ## How to run
 
